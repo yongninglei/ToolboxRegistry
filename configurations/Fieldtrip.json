@@ -4,7 +4,7 @@
 		"hook": "",
 		"localHookTemplate": "",
 		"name": "Fieldtrip",
-		"pathPlacement": "append",
+		"pathPlacement": "appendrootonly",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
