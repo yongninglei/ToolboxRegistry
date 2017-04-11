@@ -1,7 +1,7 @@
 [
 	{
 		"flavor": "",
-		"hook": "",
+		"hook": "ft_defaults",
 		"localHookTemplate": "",
 		"name": "Fieldtrip",
 		"pathPlacement": "appendrootonly",
