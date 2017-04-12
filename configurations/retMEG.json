@@ -1,0 +1,27 @@
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "Code",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "local",
+	"update": "",
+	"url": "file:\/\/\/Volumes\/server\/Projects\/MEG\/Retinotopy\/"
+}
+{
+    "flavor": "",
+    "hook": "",
+    "importance": "",
+    "localHookTemplate": "",
+    "name": "Fieldtrip",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "include",
+    "update": "",
+    "url": ""
+}
