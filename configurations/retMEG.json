@@ -1,18 +1,17 @@
+[
 {
-	"extra": "",
 	"flavor": "",
 	"hook": "",
 	"importance": "",
 	"localHookTemplate": "",
-	"name": "Code",
+	"name": "megRetinotopy",
 	"pathPlacement": "append",
-	"requirementHook": "",
 	"subfolder": "",
 	"toolboxRoot": "",
-	"type": "local",
+	"type": "git",
 	"update": "",
-	"url": "file:\/\/\/Volumes\/server\/Projects\/MEG\/Retinotopy\/Code\/"
-}
+	"url": "https://github.com/WinawerLab/megRetinotopy.git"
+},
 {
     "flavor": "",
     "hook": "",
@@ -25,3 +24,4 @@
     "update": "",
     "url": ""
 }
+]
