@@ -1,0 +1,39 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "Brainstorm",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/brainstorm-tools/brainstorm3.git"
+	},
+	{
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "meg_utils",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "git",
+        "update": "",
+        "url": "https://github.com/winawerlab/meg_utils.git"
+    },
+    {
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "Fieldtrip",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "",
+        "url": ""
+    }	
+]
