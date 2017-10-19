@@ -4,13 +4,13 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "JWLOrientedGabor",
+		"name": "WLVernierAcuity",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/isetbio/JWLOrientedGabor.git"
+		"url": "https://github.com/isetbio/WLVernierAcuity.git"
 	},
 	{
 		"flavor": "",
