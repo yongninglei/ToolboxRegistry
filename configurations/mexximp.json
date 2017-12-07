@@ -12,6 +12,19 @@
 		"importance": "optional",
 		"url": "ninjaben\/exrtools-docker"
 	},
+    {
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "exrtools",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "docker",
+		"update": "",
+		"importance": "optional",
+		"url": "rendertoolbox\/imagemagick"
+	},
 	{
 		"flavor": "",
 		"hook": "clear mex",
@@ -21,7 +34,7 @@
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "webget",
-		"update": "",
+		"update": "never",
 		"url": "https:\/\/github.com\/RenderToolbox\/mexximp\/releases\/download\/v0.1.1\/build.zip"
 	},
 	{

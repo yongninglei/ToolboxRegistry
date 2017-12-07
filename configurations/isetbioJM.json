@@ -1,44 +1,62 @@
 [
-	
 	{
-		"extra": "",
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "matlab-persistence",
+		"name": "signal",
 		"pathPlacement": "append",
-		"requirementHook": "",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "installed",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "stats",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "installed",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "images",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "installed",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"name": "isetbioJM",
+        "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
+		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https:\/\/github.com\/ragavsathish\/matlab-persistence.git"
+		"url": "https://github.com/brainardlab/isetbio.git"
 	},
-	{
-		"extra": "",
+    {
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "jsonlab",
+		"name": "UnitTestToolbox",
 		"pathPlacement": "append",
-		"requirementHook": "",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "never",
-		"url": ""
-	},
-	{
-		"extra": "",
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "logging4matlab",
-		"pathPlacement": "append",
-		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
@@ -46,19 +64,16 @@
 		"url": ""
 	},
 	{
-		"extra": "",
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "MatlabQuery",
+		"name": "RemoteDataToolbox",
 		"pathPlacement": "append",
-		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
-		"update": "never",
+		"update": "",
 		"url": ""
 	}
-
 ]

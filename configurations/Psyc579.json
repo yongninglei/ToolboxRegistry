@@ -69,12 +69,12 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "PsychCalLocalData",
+		"name": "Palamedes_1.8.2",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "svn",
+		"type": "include",
 		"update": "",
-		"url": "https://platypus.psych.upenn.edu/repos/toolboxes/PsychCalLocalData"
+		"url": ""
 	}
 ]
