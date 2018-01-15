@@ -26,6 +26,19 @@
 		"url": ""
 	},
 	{
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "OPLToolbox",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "git",
+        "update": "",
+        "url": "https:\/\/github.com\/spitschan\/OPLToolbox.git"
+    },
+	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
@@ -63,18 +76,5 @@
 		"type": "git",
 		"update": "never",
 		"url": "https://github.com/BrainardLab/mgl.git"
-	},
-    {
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "PsychCalLocalData",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "svn",
-		"update": "",
-		"url": "https://platypus.psych.upenn.edu/repos/toolboxes/PsychCalLocalData"
 	}
 ]

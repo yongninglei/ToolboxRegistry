@@ -2,34 +2,21 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"importance": "",
 		"localHookTemplate": "",
-		"name": "megRetinotopy",
+		"name": "lifespan",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/WinawerLab/megRetinotopy.git"
+		"url": "https://github.com/yeatmanlab/lifespan.git"
 	},
 	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "Fieldtrip",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "Brainstorm",
+		"name": "AFQ",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",

@@ -1,0 +1,54 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "vistasoft",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "knk",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "winawerlabUtils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/WinawerLab/winawerlabUtils.git"
+	},
+{
+	"extra": "",
+	"flavor": "",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "Code",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "local",
+	"update": "",
+	"url": "file:\/\/\/Volumes\/server\/Projects\/Temporal_integration\/code\/"
+}
+]
