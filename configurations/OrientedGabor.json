@@ -1,0 +1,26 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "JWLOrientedGabor",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/isetbio/JWLOrientedGabor.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "isetbio",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": ""	
+	}	
+]
