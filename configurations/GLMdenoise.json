@@ -4,47 +4,37 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "vistasoft",
-		"pathPlacement": "prepend",
+		"name": "GLMDenoise",
+		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/vistalab/vistasoft.git"
-	},
-	{
+		"url": "https://github.com/kendrickkay/glmdenoise.git"
+	},	
+    {
 		"flavor": "",
 		"hook": "",
-		"name": "spm12",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "DNB",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
-	},
+		"url": "https://github.com/kendrickkay/DNB.git"
+	},	
 	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
-		"pathPlacement": "append",
+		"name": "knk",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
 		"update": "",
 		"url": ""
-	},
-	{
-	"flavor": "",
-	"hook": "",
-	"name": "jsonlab",
-	"pathPlacement": "append",
-	"subfolder": "",
-	"toolboxRoot": "",
-	"type": "include",
-	"update": "",
-	"url": ""
 	}
 ]

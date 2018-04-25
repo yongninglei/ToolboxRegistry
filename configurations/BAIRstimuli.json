@@ -69,12 +69,12 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "knkutils",
+		"name": "knk",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/kendrickkay/knkutils"
+		"url": ""
 	}
 ]
