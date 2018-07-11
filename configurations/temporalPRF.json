@@ -1,0 +1,41 @@
+[
+	{
+		"flavor": "device_fix",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "vistadispVISTA",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/vistalab/vistadisp.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "paper_2017_compressiveTemporalSummation",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/Jingyang-Zhou/paper_2017_compressiveTemporalSummation.git"
+	}
+]
