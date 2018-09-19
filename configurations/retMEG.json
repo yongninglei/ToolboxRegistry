@@ -10,7 +10,8 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/WinawerLab/megRetinotopy.git"
+		"url": "https://github.com/WinawerLab/megRetinotopy.git",
+		"flavor": ""
 	},
 	{
 		"flavor": "",
@@ -35,5 +36,17 @@
 		"type": "include",
 		"update": "",
 		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "megdenoise",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": ""
 	}
 ]
