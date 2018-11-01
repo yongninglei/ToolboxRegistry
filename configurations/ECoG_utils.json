@@ -4,58 +4,20 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "signal",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "stats",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "images",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "installed",
-		"update": "",
-		"url": ""
-	},
-    {
-		"flavor": "",
-		"hook": "",
-		"name": "isetbio",
-        "localHookTemplate": "configuration/isetbioLocalHookTemplate.m",
+		"name": "ECoG_utils",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/isetbio/isetbio.git"
+		"url": "https://github.com/winawerlab/ECoG_utils.git"
 	},
-    {
+	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "UnitTestToolbox",
+		"name": "Fieldtrip",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -68,25 +30,38 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
-		"pathPlacement": "append",
+		"name": "vistasoft",
+		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/vistalab/vistasoft.git"
 	},
-    {
+	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "ExampleTestToolbox",
+		"name": "ecogBasicCode",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/dorahermes/ecogBasicCode"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "JSONio",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/gllmflndn/JSONio"
 	}
 ]

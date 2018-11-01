@@ -17,13 +17,26 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
+		"name": "ExampleTestToolbox",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
 		"name": "fw_sdk_matlab",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "webget",
-		"update": "never",
-		"url": "https:\/\/github.com\/flywheel-io/sdk/releases/download/0.2.1/fw_sdk_matlab-macosx_amd64.tgz"
+		"type": "include",
+		"update": "",
+		"url": ""
 	},
 	{
 		"flavor": "",

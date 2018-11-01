@@ -10,7 +10,20 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/WinawerLab/megRetinotopy.git"
+		"url": "https://github.com/WinawerLab/megRetinotopy.git",
+		"flavor": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "vistasoft",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": ""
 	},
 	{
 		"flavor": "",
@@ -35,5 +48,29 @@
 		"type": "include",
 		"update": "",
 		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "megdenoise",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "meg_utils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": ""
 	}
 ]

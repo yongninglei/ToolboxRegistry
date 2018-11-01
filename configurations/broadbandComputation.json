@@ -4,37 +4,25 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "GLMdenoise",
+		"name": "broadbandComputation",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/kendrickkay/GLMdenoise"
+		"url": "https://github.com/irisgroen/broadbandComputation"
 	},
-	{
+	{	
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "BAIRanalysis",
+		"name": "ECoG_utils",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/BAIRR01/BAIRanalysis.git"
-	},	
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "vistasoft",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
+		"url": "https://github.com/winawerlab/ECoG_utils.git"
 	}
 ]

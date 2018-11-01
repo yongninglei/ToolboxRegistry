@@ -47,5 +47,17 @@
         "type": "include",
         "update": "",
         "url": ""
-    }	
+    },
+    {
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "megdenoise",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "",
+        "url": ""
+	}		
 ]

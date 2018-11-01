@@ -2,13 +2,15 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
 		"localHookTemplate": "",
-		"name": "matlabPyrTools",
+		"name": "megdenoise",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/WinawerLab/matlabPyrTools.git"
+		"url": "https://github.com/elinekupers/denoiseproject.git",
+		"flavor": ""
 	}
 ]

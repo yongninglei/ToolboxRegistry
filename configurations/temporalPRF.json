@@ -1,21 +1,23 @@
 [
 	{
-		"flavor": "",
+		"flavor": "device_fix",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "vistasoft",
-		"pathPlacement": "prepend",
+		"name": "vistadispVISTA",
+		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/vistalab/vistasoft.git"
+		"url": "https://github.com/vistalab/vistadisp.git"
 	},
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "spm12",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -28,23 +30,12 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
+		"name": "paper_2017_compressiveTemporalSummation",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
-	},
-	{
-	"flavor": "",
-	"hook": "",
-	"name": "jsonlab",
-	"pathPlacement": "append",
-	"subfolder": "",
-	"toolboxRoot": "",
-	"type": "include",
-	"update": "",
-	"url": ""
+		"url": "https://github.com/Jingyang-Zhou/paper_2017_compressiveTemporalSummation.git"
 	}
 ]
