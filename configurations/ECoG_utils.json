@@ -14,16 +14,16 @@
 	},
 	{
 		"flavor": "",
-		"hook": "",
+		"hook": "ft_defaults",
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "Fieldtrip",
-		"pathPlacement": "append",
+		"pathPlacement": "appendrootonly",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/fieldtrip/fieldtrip.git"
 	},
 	{
 		"flavor": "",
@@ -63,5 +63,18 @@
 		"type": "git",
 		"update": "",
 		"url": "https://github.com/gllmflndn/JSONio"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "bids-starter-kit",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/INCF/bids-starter-kit"
 	}
 ]
