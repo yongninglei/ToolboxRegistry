@@ -17,14 +17,14 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "BAIRanalysis",
+		"name": "MRI_tools",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/BAIRR01/BAIRanalysis.git"
-	},	
+		"url": "https://github.com/WinawerLab/MRI_tools.git"
+	},
 	{
 		"flavor": "",
 		"hook": "",
