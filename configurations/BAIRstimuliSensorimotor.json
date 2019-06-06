@@ -1,80 +1,80 @@
 [
 	{
-		"flavor": "",
+		"flavor": "sensorimotor",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "ECoG_utils",
+		"name": "BAIRstimuli",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/winawerlab/ECoG_utils.git"
+		"url": "https://github.com/BAIRR01/BAIR_stimuli.git"
 	},
 	{
-		"flavor": "",
-		"hook": "ft_defaults",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "Fieldtrip",
-		"pathPlacement": "appendrootonly",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/fieldtrip/fieldtrip.git"
-	},
-	{
-		"flavor": "",
+		"flavor": "sensorimotor",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "vistasoft",
-		"pathPlacement": "prepend",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/vistalab/vistasoft.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "ecogBasicCode",
+		"name": "vistadispBAIR",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/dorahermes/ecogBasicCode"
+		"url": "https://github.com/BAIRR01/vistadisp.git"
 	},
 	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "JSONio",
+		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/gllmflndn/JSONio"
+		"url": ""
 	},
 	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "bids-starter-kit",
+		"name": "RemoteDataToolbox",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "include",
 		"update": "",
-		"url": "https://github.com/INCF/bids-starter-kit"
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "matlabPyrTools",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "knk",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	}
 ]
