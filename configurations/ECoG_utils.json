@@ -76,5 +76,18 @@
 		"type": "git",
 		"update": "",
 		"url": "https://github.com/INCF/bids-starter-kit"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "knk",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	}
 ]
