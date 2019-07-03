@@ -83,11 +83,24 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "knk",
-		"pathPlacement": "append",
+		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
 		"update": "",
 		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "analyzePRF",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/WinawerLab/analyzePRF"
 	}
 ]
