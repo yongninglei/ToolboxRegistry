@@ -15,7 +15,7 @@
     {
         "flavor": "",
         "hook": "",
-        "name": "spm12",
+        "name": "gifti",
         "pathPlacement": "append",
         "subfolder": "",
         "toolboxRoot": "",
