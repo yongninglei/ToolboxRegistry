@@ -22,5 +22,16 @@
         "type": "include",
         "update": "",
         "url": ""
+    },
+    {
+        "flavor": "",
+        "hook": "",
+        "name": "GLMdenoise",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "",
+        "url": ""
     }
 ]
