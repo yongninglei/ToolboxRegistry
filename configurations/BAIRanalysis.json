@@ -25,6 +25,17 @@
 		"update": "",
 		"url": "https://github.com/WinawerLab/MRI_tools.git"
 	},
+    {
+        "flavor": "",
+        "hook": "",
+        "name": "gifti",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "",
+        "url": ""
+    },
 	{
 		"flavor": "",
 		"hook": "",
