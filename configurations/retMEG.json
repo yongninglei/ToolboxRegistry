@@ -5,7 +5,7 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "megRetinotopy",
-		"pathPlacement": "append",
+		"pathPlacement": "appendrootonly",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
