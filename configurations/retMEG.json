@@ -1,7 +1,7 @@
 [
 	{
 		"flavor": "",
-		"hook": "",
+		"hook": "mprf_addPaths();",
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "megRetinotopy",
