@@ -25,17 +25,6 @@
 		"update": "",
 		"url": "https://github.com/WinawerLab/MRI_tools.git"
 	},
-    {
-        "flavor": "",
-        "hook": "",
-        "name": "gifti",
-        "pathPlacement": "append",
-        "subfolder": "",
-        "toolboxRoot": "",
-        "type": "include",
-        "update": "",
-        "url": ""
-    },
 	{
 		"flavor": "",
 		"hook": "",
@@ -49,16 +38,16 @@
 		"update": "",
 		"url": "https://github.com/BAIRR01/BAIRanalysis"
 	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "vistasoft",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	}
+    {
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "vistasoft",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "",
+        "url": ""
+    }
 ]
