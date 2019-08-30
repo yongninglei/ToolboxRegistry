@@ -1,4 +1,16 @@
 [
+  {
+      "flavor": "",
+      "hook": "",
+      "localHookTemplate": "",
+      "name": "JSONio",
+      "pathPlacement": "prepend",
+      "subfolder": "",
+      "toolboxRoot": "",
+      "type": "git",
+      "update": "",
+      "url": "https://github.com/gllmflndn/JSONio"
+  },
     {
         "flavor": "",
         "hook": "",
