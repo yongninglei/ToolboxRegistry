@@ -25,6 +25,19 @@
 	},
 	{
 		"flavor": "",
+		"hook": "!git checkout garifromafqDim",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "scitran",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
