@@ -10,7 +10,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/winawerlab/ECoG_utils.git"
+		"url": "https://github.com/winawerlab/ECoG_utils"
 	},
 	{
 		"flavor": "",
@@ -23,7 +23,7 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/fieldtrip/fieldtrip.git"
+		"url": "https://github.com/fieldtrip/fieldtrip"
 	},
 	{
 		"flavor": "",
@@ -89,5 +89,18 @@
 		"type": "git",
 		"update": "",
 		"url": "https://github.com/WinawerLab/MRI_tools"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "vistasoft",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/vistalab/vistasoft.git"
 	}
 ]
