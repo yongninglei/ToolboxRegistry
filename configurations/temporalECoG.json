@@ -4,31 +4,20 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "vistasoft",
-		"pathPlacement": "prepend",
+		"name": "temporalECoG",
+		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/vistalab/vistasoft.git"
+		"url": "https://github.com/irisgroen/temporalECoG"
 	},
-	{
-		"flavor": "",
-		"hook": "",
-		"name": "spm12",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
+	{	
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
+		"name": "ECoG_utils",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -36,15 +25,30 @@
 		"update": "",
 		"url": ""
 	},
-	{
-	"flavor": "",
-	"hook": "",
-	"name": "jsonlab",
-	"pathPlacement": "append",
-	"subfolder": "",
-	"toolboxRoot": "",
-	"type": "include",
-	"update": "",
-	"url": ""
+	{	
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "meg_utils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{	
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "paper_2018_temporalDynamics",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/jingyang-zhou/paper_2018_temporalDynamics"
 	}
 ]

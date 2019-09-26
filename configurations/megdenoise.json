@@ -1,0 +1,16 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "megdenoise",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/elinekupers/noisepoolPCADenoise.git",
+		"flavor": ""
+	}
+]

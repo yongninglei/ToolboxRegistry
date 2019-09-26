@@ -2,12 +2,14 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "spm12",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_pRFanalysis",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/spm/spm12.git"
+		"url": "https://github.com/WinawerLab/ECoG_pRF"
 	}
 ]

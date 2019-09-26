@@ -1,0 +1,14 @@
+[
+	{
+		"flavor": "",
+		"hook": "ft_defaults",
+		"localHookTemplate": "",
+		"name": "Fieldtrip",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/fieldtrip/fieldtrip.git"
+	}
+]

@@ -5,18 +5,6 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "vistasoft",
-		"pathPlacement": "prepend",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/vistalab/vistasoft.git"
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"name": "spm12",
-		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
@@ -28,8 +16,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
-		"pathPlacement": "append",
+		"name": "knk",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
@@ -37,14 +24,31 @@
 		"url": ""
 	},
 	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "winawerlabUtils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/WinawerLab/winawerlabUtils.git"
+	},
+{
+	"extra": "",
 	"flavor": "",
 	"hook": "",
-	"name": "jsonlab",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "Code",
 	"pathPlacement": "append",
+	"requirementHook": "",
 	"subfolder": "",
 	"toolboxRoot": "",
-	"type": "include",
+	"type": "local",
 	"update": "",
-	"url": ""
-	}
+	"url": "file:\/\/\/Volumes\/server\/Projects\/Temporal_integration\/code\/"
+}
 ]

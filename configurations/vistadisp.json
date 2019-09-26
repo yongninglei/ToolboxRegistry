@@ -4,18 +4,20 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "vistasoft",
-		"pathPlacement": "prepend",
+		"name": "vistadisp",
+		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/vistalab/vistasoft.git"
+		"url": "https://github.com/winawerlab/vistadisp.git"
 	},
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "spm12",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Psychtoolbox-3",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -35,16 +37,5 @@
 		"type": "include",
 		"update": "",
 		"url": ""
-	},
-	{
-	"flavor": "",
-	"hook": "",
-	"name": "jsonlab",
-	"pathPlacement": "append",
-	"subfolder": "",
-	"toolboxRoot": "",
-	"type": "include",
-	"update": "",
-	"url": ""
 	}
 ]
