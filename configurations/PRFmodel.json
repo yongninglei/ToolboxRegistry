@@ -38,7 +38,7 @@
 	},
 	{
 		"flavor": "",
-		"hook": "!git checkout garifromafqDim",
+		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "scitran",
