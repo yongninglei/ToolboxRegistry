@@ -2,7 +2,9 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "JSONio",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "freesurfer_mrtrix_afni_matlab_tools",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -15,25 +17,12 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "scitran",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "paper-reproducibility",
+		"name": "paper-dorsalventral",
 		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/garikoitz/paper-reproducibility"
+		"url": "https://github.com/garikoitz/paper-dorsalventral.git"
 	}
 ]

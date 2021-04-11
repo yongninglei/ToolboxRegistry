@@ -2,20 +2,7 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "JSONio",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "!git checkout garifromafqDim",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "scitran",
+		"name": "paper-reproducibility",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
