@@ -2,30 +2,6 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "JSONio",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "scitran",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
-		"flavor": "",
-		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "freesurfer_mrtrix_afni_matlab_tools",
