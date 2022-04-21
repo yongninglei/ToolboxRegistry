@@ -24,19 +24,6 @@
 		"url": ""
 	},
 	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
 	"flavor": "",
 	"hook": "",
 	"name": "jsonlab",
