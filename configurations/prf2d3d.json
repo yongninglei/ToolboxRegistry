@@ -28,6 +28,20 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
+		"name": "PRF-Stimdependence",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
 		"name": "prf2d3d",
 		"pathPlacement": "prepend",
 		"subfolder": "",
