@@ -2,7 +2,7 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"name": "garikoitzanalyzePRF",
+		"name": "analyzePRF",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",

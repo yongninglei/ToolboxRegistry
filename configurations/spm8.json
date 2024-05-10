@@ -1,0 +1,24 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "bspmview",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"name": "spm8",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/spm/spm8.git"
+	}
+]
