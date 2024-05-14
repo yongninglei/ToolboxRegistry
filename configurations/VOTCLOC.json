@@ -12,7 +12,20 @@
 		"update": "",
 		"url": ""
 	},
-	{
+    {
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "SPM12",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
 		"flavor": "",
 		"hook": "",
 		"importance": "",
