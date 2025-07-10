@@ -1,29 +1,5 @@
 [
-	{
-		"flavor": "",
-		"hook": "",
-		"name": "analyzePRF",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
     {
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "gifti",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
@@ -36,12 +12,12 @@
 		"update": "",
 		"url": ""
 	},
-	{
+    {
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "vistasoft",
+		"name": "SPM12",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
@@ -49,17 +25,17 @@
 		"update": "",
 		"url": ""
 	},
-	{
+    {
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "PRFmodel",
+		"name": "VOTCLOC",
 		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/vistalab/PRFmodel.git"
+		"url": "https://github.com/garikoitz/VOTCLOC"
 	}
 ]

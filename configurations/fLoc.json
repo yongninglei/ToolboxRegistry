@@ -1,29 +1,29 @@
 [
-	{
+   	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "PRF-Stimdependence",
-		"pathPlacement": "append",
+		"name": "BCBLViennaSoft",
+		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
 		"update": "",
 		"url": ""
 	},
-
 	{
 		"flavor": "",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "prf2d3d",
+		"name": "fLoc",
 		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/garikoitz/prf2d3d.git"
+		"url": "https://github.com/VPNL/fLoc.git"
 	}
+
 ]
